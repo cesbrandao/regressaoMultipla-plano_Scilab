@@ -1,5 +1,7 @@
 ### REGRESSÃO POLINOMIAL (PLANO) - SCILAB 6.1.0
 
+#### Algoritmo desenvolvido no decorrer da disciplina de Inteligência Computacional do curso de Engenharia de Computação (UFC)
+
 Dada a base de dados D, na qual a primeira e segunda colunas são as variáveis regressoras (x1 e x2) e a terceira coluna é a variável dependente (y), determine o modelo de regressão múltipla (plano) com parâmetros estimados pelo método dos mínimos quadrados. Avalie a qualidade do modelo pela métrica R².
 
 D = [122 139 0.115;
